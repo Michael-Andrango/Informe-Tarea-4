@@ -25,12 +25,34 @@ CIRCUITOS EN SERIE_PARALELO - TEOREMAS DE CIRCUITOS Y CONVERSIONES
 
 (b) Una combinación serie de tres circuitos en paralelo, cada circuito con dos resistores
 
+R:
+![image](https://user-images.githubusercontent.com/107088999/208712606-a97aa335-01e5-4c26-8cf1-d4f17c1d4f96.png)
+
+
 
 4. En cada uno de los circuitos de la figura 7-63, identifique las relaciones en serie-paralelo de los resistores vistas desde la fuente.
 
-
 ![image](https://user-images.githubusercontent.com/107088999/208340755-643e284a-dde4-4f16-9a91-d3dcef464532.png)
 
+Respuesta:
+
+a) R3 || R4
+
+La combinación de R3 || R4 en serie con R2
+
+La combinación de R3 || R4 * R2 en paralelo con R1
+
+b) R1 || R2 || R3 || R4
+
+c) R6 || R7
+
+La combinación de R6 || R7 en serie con R5 Y R6
+
+R3 || R4
+
+La combinación de R3 || R4 en serie R1 y R2
+
+La combinación de R3 || R4 en R1 Y R2 en paralelo con la combinación de R6 || R7 y R4 || R8
 
 ![image](https://user-images.githubusercontent.com/107088999/208340647-2e200307-929b-455b-a8eb-311d5c597d1c.png)
 
