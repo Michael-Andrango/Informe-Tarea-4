@@ -165,6 +165,89 @@ SECCIÓN 8–3 Conversiones de fuente
 
 2. Convierta las fuentes de voltaje prácticas de la figura 8-67 en fuentes de corriente equivalentes.
 
+![image](https://user-images.githubusercontent.com/107088999/208695330-8393ae08-37a9-4ec6-bc55-607be6583ad3.png)
+
+4. Trace los circuitos equivalentes de fuentes de voltaje y corriente para la batería tipo D del problema 3.
+
+6. Convierta las fuentes de corriente prácticas de la figura 8-68 en fuentes de voltaje equivalentes.
+
+![image](https://user-images.githubusercontent.com/107088999/208695914-ecaf281b-284f-4d9e-a649-443bb05755ba.png)
+
+SECCIÓN 8–4 El teorema de superposición
+
+8. Use el teorema de superposición para determinar la corriente a través, y el voltaje entre, los extremos de la rama R2 de la figura 8-69.
+
+![image](https://user-images.githubusercontent.com/107088999/208696400-9443de08-eb92-41a6-8652-d0219d2a0800.png)
+
+10. Con el teorema de superposición, determine la corriente de carga en cada uno de los circuitos mostrados en la figura 8-71.
+
+![image](https://user-images.githubusercontent.com/107088999/208696762-8d7751b6-442b-47e6-95c0-cc18da4de2b4.png)
+
+
+12. Repita el problema 11 si R2 es de 10 kΩ.
+
+Enunciado 11 para resolucion de problema: En la figura 8-72 se muestra un circuito comparador. El voltaje de entrada, VENTRADA, se compara con el voltaje de referencia, VREFERENCIA, y se genera una salida negativa si VREFERENCIA > VENTRADA; de lo contrario es positiva. El comparador no carga a una u otra entrada. Si R2 es de 1.0 kΩ, ¿cuál es el intervalo del voltaje de referencia?
+
+
+![image](https://user-images.githubusercontent.com/107088999/208697246-abad26ee-8982-4ef5-a447-910e2e522a53.png)
+
+
+14. Los interruptores mostrados en la figura 8-74 se cierran en secuencia, SW1 primero. Determine la corriente a través de R4 después del cierre de cada interruptor.
+
+![image](https://user-images.githubusercontent.com/107088999/208697486-e36bfbf7-c086-4bda-b6a3-ba0118629942.png)
+
+SECCIÓN 8–5 Teorema de Thevenin
+
+16. Para cada uno de los circuitos de la figura 8-76, determine el equivalente de Thevenin como se ve desde las terminales A y B.
+
+![image](https://user-images.githubusercontent.com/107088999/208697778-62982f2d-e945-47d3-a7f3-0dc7d64824c7.png)
+
+*18. Con el teorema de Thevenin, determine el voltaje entre los extremos de R4 en la figura 8-78.
+
+![image](https://user-images.githubusercontent.com/107088999/208697977-b8317fb8-f788-4531-9bcd-9a072a50e29f.png)
+
+20. Determine la corriente que se dirige al punto A cuando R8 es de 1.0 kΩ, 5 kΩ, y 10 kΩ en la figura 8-80.
+
+![image](https://user-images.githubusercontent.com/107088999/208698603-3a064d57-8b2e-42e2-ae51-f2153a738dd3.png)
+
+22. Determine el equivalente de Thevenin del circuito mostrado en la figura 8-82 visto desde las terminales A y B.
+
+![image](https://user-images.githubusercontent.com/107088999/208699115-8dfcaac1-604a-4211-aeae-449781817b78.png)
+
+24. Con el teorema de Norton, determine la corriente que circula a través del resistor de carga RL en la figura 8-77.
+
+![image](https://user-images.githubusercontent.com/107088999/208700791-758a26ad-b97b-4541-a417-30737a96f7c7.png)
+
+26. Con el teorema de Norton, determine la corriente que circula a través de R1 en la figura 8-80 cuando R8 5 8 kÆ.
+
+
+![image](https://user-images.githubusercontent.com/107088999/208701062-72a0ce27-802a-48ba-b697-59b3a9df2932.png)
+
+28. En la figura 8-83, reduzca el circuito entre las terminales A y B a su equivalente Norton.
+
+![image](https://user-images.githubusercontent.com/107088999/208703063-a254e66f-37b6-4ee6-9031-f6f06b0024f2.png)
+
+SECCIÓN 8–7 Teorema de transferencia de potencia máxima
+
+30. En cada circuito mostrado en la figura 8-85, se tiene que transferir potencia máxima a la carga RL. Determine el valor apropiado de RL en cada caso.
+
+![image](https://user-images.githubusercontent.com/107088999/208703392-a9911848-747a-4550-b499-d5ef0d46b40a.png)
+
+32. ¿Cuánta potencia se suministra a la carga cuando RL es un 10% más alta que su valor para transferencia de potencia máxima en el circuito de la figura 8-86?
+
+![image](https://user-images.githubusercontent.com/107088999/208703713-5046b7e5-0ab1-4006-a286-b449fd51f5b1.png)
+
+SECCIÓN 8–8 Conversiones delta a Y (D a Y) y Y a D
+
+34. En la figura 8-88, convierta cada red delta en una red Y.
+
+![image](https://user-images.githubusercontent.com/107088999/208704321-b157718d-b92e-49a9-a466-3a73f6904506.png)
+
+
+36. Determine todas las corrientes que circulan en el circuito de la figura 8-90.
+
+![image](https://user-images.githubusercontent.com/107088999/208705109-9518bc44-2f1f-4e7d-b9f7-ac3aff3d980a.png)
+
 
 
 4.Conclusiones 
