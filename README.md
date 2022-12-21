@@ -268,6 +268,9 @@ SECCIÓN 8–4 El teorema de superposición
 
 ![image](https://user-images.githubusercontent.com/107088999/208696400-9443de08-eb92-41a6-8652-d0219d2a0800.png)
 
+![image](https://user-images.githubusercontent.com/107088999/208817769-690d54a4-1465-42b0-81df-0c54885b2ddf.png)
+
+
 10. Con el teorema de superposición, determine la corriente de carga en cada uno de los circuitos mostrados en la figura 8-71.
 
 ![image](https://user-images.githubusercontent.com/107088999/208696762-8d7751b6-442b-47e6-95c0-cc18da4de2b4.png)
