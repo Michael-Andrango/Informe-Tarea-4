@@ -14,8 +14,11 @@ CIRCUITOS EN SERIE_PARALELO - TEOREMAS DE CIRCUITOS Y CONVERSIONES
 
 ![Organizador gráfico corporativo azul con imágenes (1)](https://user-images.githubusercontent.com/107088999/206326345-44c4d78d-cdbe-4bc5-9a8b-1605410a668c.jpg)
 
+![Organizador Gráfico 5 Sentidos Blanco y Gris](https://user-images.githubusercontent.com/107088999/208919733-028377fb-81d4-497c-b064-26c15e5ab530.jpg)
 
+![Presentación de Gráficos Básicos de la Empresa Minimalista Colores Neutros](https://user-images.githubusercontent.com/107088999/208919756-ebba0fb1-d701-483a-b470-4dca90d24c14.jpg)
 
+![Presentación para Pizarra Online Lluvia de Ideas Planificación Equipo Ilustrativo Divertido Ws Naranja Rosa Amarillo](https://user-images.githubusercontent.com/107088999/208919790-78bb1b54-d3c8-45c6-bd5f-5585010bd7f0.jpg)
 
 3. Explicacion y resolucion de ejercicios o problemas  EJERCICIOS PARES
 
@@ -275,6 +278,8 @@ SECCIÓN 8–4 El teorema de superposición
 
 ![image](https://user-images.githubusercontent.com/107088999/208696762-8d7751b6-442b-47e6-95c0-cc18da4de2b4.png)
 
+![image](https://user-images.githubusercontent.com/107088999/208917480-f2a23485-360f-42a0-a54a-91cdea04f4d1.png)
+
 
 12. Repita el problema 11 si R2 es de 10 kΩ.
 
@@ -283,10 +288,8 @@ Enunciado 11 para resolucion de problema: En la figura 8-72 se muestra un circui
 
 ![image](https://user-images.githubusercontent.com/107088999/208697246-abad26ee-8982-4ef5-a447-910e2e522a53.png)
 
+![image](https://user-images.githubusercontent.com/107088999/208919118-8e1a80c9-7152-45cc-8a60-95c726db8676.png)
 
-14. Los interruptores mostrados en la figura 8-74 se cierran en secuencia, SW1 primero. Determine la corriente a través de R4 después del cierre de cada interruptor.
-
-![image](https://user-images.githubusercontent.com/107088999/208697486-e36bfbf7-c086-4bda-b6a3-ba0118629942.png)
 
 SECCIÓN 8–5 Teorema de Thevenin
 
