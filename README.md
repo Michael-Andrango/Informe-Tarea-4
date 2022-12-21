@@ -60,19 +60,35 @@ La combinación de R3 || R4 en R1 Y R2 en paralelo con la combinación de R6 || 
 
 ![image](https://user-images.githubusercontent.com/107088999/208341117-846d7a00-228b-450c-8115-b612e7039fa5.png)
 
+Respuesta:
+
+![image](https://user-images.githubusercontent.com/107088999/208754065-81301985-f19a-4e69-91ee-a9ffaece633d.png)
+
+Dado que la imagen no tiene color no se puede determinar los valores de las resistencias.
 
 SECCIÓN 7–2 Análisis de circuitos resistivos en serie-paralelo
 
 8. Un cierto circuito se compone de dos resistores en paralelo. La resistencia total es de 667 Ω. Uno de los resistores es de 1.0 kΩ. ¿Cuál es el otro resistor?
 
+![image](https://user-images.githubusercontent.com/107088999/208754792-8d433fc1-2bf9-4379-aa8a-516f22c7bb7a.png)
+
+
 10. Repita el problema 9 para cada uno de los circuitos mostrados en la figura 7-63.
 
+
+![image](https://user-images.githubusercontent.com/107088999/208755738-219f5064-3600-4562-bbb0-39a5fa195759.png)
+
 12. Determine la corriente a través de cada resistor en cada circuito de la figura 7-63; luego calcule cada caida de voltaje.
+
+![image](https://user-images.githubusercontent.com/107088999/208766984-b8ba0625-c1d4-45a0-a203-9af2584ccf78.png)
+
 
 
 14. Determine la resistencia entre A y B en la figura 7-67 sin la fuente.
 
 ![image](https://user-images.githubusercontent.com/107088999/208341747-165c0544-dd98-4199-b395-8bf73777c501.png)
+
+![image](https://user-images.githubusercontent.com/107088999/208768187-634942d5-b31e-4529-9450-e980c21356ca.png)
 
 
 16. Determine el voltaje en cada nodo con respecto a tierra en la figura 7-68.
@@ -80,44 +96,67 @@ SECCIÓN 7–2 Análisis de circuitos resistivos en serie-paralelo
 
 ![image](https://user-images.githubusercontent.com/107088999/208341891-ddadf5a0-a6c4-4dc8-a34e-0c2f76ab4c27.png)
 
+Respuesta:
+
+![image](https://user-images.githubusercontent.com/107088999/208770703-74e85366-7b01-4092-96ba-afaa95b310e5.png)
+
 18. Determine la resistencia del circuito mostrado en la figura 7-67 como se ve desde la fuente de voltaje.
+
+![image](https://user-images.githubusercontent.com/107088999/208771792-6bb10b88-61df-4fa9-a6a8-72f55b84b104.png)
 
 
 20. Determine el voltaje, VAB, en la figura 7-69.
 
 ![image](https://user-images.githubusercontent.com/107088999/208342054-a6a4eee7-18ff-4015-b9e3-17728ee77d2b.png)
 
+![image](https://user-images.githubusercontent.com/107088999/208774156-de682ffb-9041-4c27-a916-67c86dd3de59.png)
+
 
 22. En la figura 7-71, determine la resistencia entre el nodo A y cada uno de los demás nodos (RAB, RAC, RAD, RAE, RAF, y RAG).
 
 ![image](https://user-images.githubusercontent.com/107088999/208342210-1c218415-ef9b-4e63-9ea2-be6aaffbf007.png)
 
+![image](https://user-images.githubusercontent.com/107088999/208774419-e38157db-695d-4b30-b9b2-5d7e507ec6c2.png)
+
 24. Determine el valor de cada resistor mostrado en la figura 7-73.
 
 ![image](https://user-images.githubusercontent.com/107088999/208342309-930c61f0-3914-4fc3-a9a3-194161a3ce68.png)
+
+![image](https://user-images.githubusercontent.com/107088999/208776542-bff91985-4d35-4024-84e5-77b827119bb8.png)
 
 
 SECCIÓN 7–3 Divisores de voltaje con cargas resistivas
 
 26. La salida de una batería de 12 V se divide para obtener dos voltajes de salida. Se utilizan tres resistores de 3.3 kΩ para proporcionar dos tomas. Determine los voltajes de salida. Si se conecta una carga de 10 kΩ a la más alta de las salidas, ¿cuál será su valor con carga?
 
+![image](https://user-images.githubusercontent.com/107088999/208777701-a24248aa-f311-4d0c-9ead-a022098e1a65.png)
+
 
 28. En la figura 7-74, determine el voltaje de salida sin carga entre las terminales de salida. Con una carga de 100 kΩ conectada de A a B, ¿cuál es el voltaje de salida?
 
 ![image](https://user-images.githubusercontent.com/107088999/208342668-6a7de624-dcf4-46f3-9116-76b037edbc1b.png)
+
+![image](https://user-images.githubusercontent.com/107088999/208779018-7c649078-2ac0-4d3e-8789-5d3955b38d24.png)
 
 
 30. En la figura 7-74, determine la corriente continua extraída de la fuente sin carga entre las terminales de salida. Con una carga de 33 kÆ, ¿cuál es la corriente extraída?
 
 ![image](https://user-images.githubusercontent.com/107088999/208342673-b9a75b28-e8e9-4206-81c1-823eb904106e.png)
 
+![image](https://user-images.githubusercontent.com/107088999/208779686-405c1be6-23a6-4961-a347-98cb0b4b9a5a.png)
+
 
 32. El divisor de voltaje de la figura 7-75 tiene una carga controlada por interruptor. Determine el voltaje en cada toma (V1, V2 y V3) para cada posición del interruptor.
 
 ![image](https://user-images.githubusercontent.com/107088999/208342887-bf6af36a-b67d-4f99-a0f7-68cd77f82a26.png)
 
+![image](https://user-images.githubusercontent.com/107088999/208781155-3a524fe2-b69d-42d5-92ba-b37fb9f7be73.png)
+
 
 34. Diseñe un divisor de voltaje que produzca una salida de 6 V sin carga y un mínimo de 5.5 V entre los extremos de una carga de 1.0 kΩ. El voltaje de fuente es de 24 V y la corriente extraída sin carga no debe exceder de 100 mA.
+
+![image](https://user-images.githubusercontent.com/107088999/208783382-df7fc505-0c43-42ec-bf8f-8719fbe9717d.png)
+
 
 
 36. Determine la resistencia interna de un voltímetro de 20,000 Æ/V en cada uno de los siguientes ajustes de intervalo.
@@ -133,8 +172,12 @@ SECCIÓN 7–3 Divisores de voltaje con cargas resistivas
 
 (f) 1000 V
 
+![image](https://user-images.githubusercontent.com/107088999/208784917-1baf925c-463a-4b47-8af9-172d70ce3cba.png)
+
 
 38. Repita el problema 37 si se utiliza el voltímetro para medir voltaje entre los extremos de R4 en el circuito de la figura 7-62(b).
+
+![image](https://user-images.githubusercontent.com/107088999/208785801-f2e5111d-5a87-4b47-8633-f6d13054014a.png)
 
 
 SECCIÓN 7–5 Redes en escalera
@@ -143,8 +186,10 @@ SECCIÓN 7–5 Redes en escalera
 
 ![image](https://user-images.githubusercontent.com/107088999/208343310-345b3e77-5383-4abc-bc89-fbf4d4156948.png)
 
-42. En la figura 7-79, ¿cuál es el voltaje entre los extremos de cada resistor con 10 V entre A y B?
+![image](https://user-images.githubusercontent.com/107088999/208786705-a732294d-74d8-4f85-afc1-a8c28990a13d.png)
 
+
+42. En la figura 7-79, ¿cuál es el voltaje entre los extremos de cada resistor con 10 V entre A y B?
 
 ![image](https://user-images.githubusercontent.com/107088999/208343405-d7e3b6ee-9e5b-42fb-b62b-fc2e29a88341.png)
 
@@ -154,17 +199,20 @@ SECCIÓN 7–5 Redes en escalera
 
 (b) Interruptor SW1 conectado a 112 V y los demás conectados a tierra
 
-
 ![image](https://user-images.githubusercontent.com/107088999/208343505-32e5f563-337b-42b5-b059-dedfd9b32bcc.png)
+
+![image](https://user-images.githubusercontent.com/107088999/208787462-7d73658a-5bf9-4bf0-b52c-383369d7ef7e.png)
 
 
 SECCIÓN 7–6 El puente Wheatstone
 
 46. Se conecta un resistor de valor desconocido a un circuito puente Wheatstone. Los parámetros del puente en equilibrio se establecen como sigue: RV 5 18 kΩ y R2/R4 5 0.02. ¿Cuál es RX?
 
+![image](https://user-images.githubusercontent.com/107088999/208788097-b5548937-080c-49c9-b8e6-b4261221170d.png)
 
 48. Determine el voltaje de salida para el puente desequilibrado mostrado en la figura 7-83 a una temperatura de 60oC. La característica de resistencia según la temperatura del termistor se muestra en la figura 7-60.
 
+![image](https://user-images.githubusercontent.com/107088999/208790116-77eeb08c-e2f8-4279-9d6c-4b1ceb79b595.png)
 
 
 SECCIÓN 7–7 Localización de fallas
@@ -173,13 +221,23 @@ SECCIÓN 7–7 Localización de fallas
 
 ![image](https://user-images.githubusercontent.com/107088999/208343721-beb036d5-22b8-40c6-9b63-94f058181160.png)
 
+Las lecturas mostradas en el voltimetro son correctas 
+
 52. Vea los medidores ilustrados en la figura 7-87 y determine si hay una falla en el circuito. Si la hay, identifíquela.
 
 ![image](https://user-images.githubusercontent.com/107088999/208343818-cbf38317-b605-4cd2-8c08-9054fdf94ca7.png)
 
+El multimetro colocado en el lado derecho es el que marca incorrectamente.
+
 54. Si en la figura 7-89 R2 se abre, ¿qué voltajes se leerán en los puntos A, B y C?
 
 ![image](https://user-images.githubusercontent.com/107088999/208343933-2c251f38-6f55-4e75-97d9-19c8548473b4.png)
+
+Va = 15V
+
+Vb = 0V
+
+Vc = 0V
 
 CAPITULO 8
 
@@ -189,11 +247,20 @@ SECCIÓN 8–3 Conversiones de fuente
 
 ![image](https://user-images.githubusercontent.com/107088999/208695330-8393ae08-37a9-4ec6-bc55-607be6583ad3.png)
 
+![image](https://user-images.githubusercontent.com/107088999/208791109-1dd351bb-29f3-43ef-94ce-3c78c54cf66c.png)
+
+
 4. Trace los circuitos equivalentes de fuentes de voltaje y corriente para la batería tipo D del problema 3.
+
+![image](https://user-images.githubusercontent.com/107088999/208792151-58139dfe-d741-45ad-924e-fabc89c31f1d.png)
+
 
 6. Convierta las fuentes de corriente prácticas de la figura 8-68 en fuentes de voltaje equivalentes.
 
 ![image](https://user-images.githubusercontent.com/107088999/208695914-ecaf281b-284f-4d9e-a649-443bb05755ba.png)
+
+![image](https://user-images.githubusercontent.com/107088999/208793381-75d02dbe-3ff2-4724-b93b-5bf2505657dc.png)
+
 
 SECCIÓN 8–4 El teorema de superposición
 
