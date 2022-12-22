@@ -5,6 +5,9 @@ Nombre: Michael Andrango
 
 1. Objetivos 
 
+Aplicar la identificacion de relaciones en serie-paralelo en ejercicios que necesiten corriente total, resistencia total entendiendo y utilizando en los momemntos que lo requiera el ejercicio.
+
+Establecer los distintos casos que se usara en el proceso de resolucion de ejercicios y ver la relacion que tiene con temas anteriores viendo la importancia que conlleva aprender temas enteriores.
 
 2. Marco Teorico
 
@@ -370,6 +373,14 @@ SECCIÓN 8–8 Conversiones delta a Y (D a Y) y Y a D
 
 4.Conclusiones 
 
+La resolucion de ejercicios requirio distintos distintos temas utilizados con anterioridad de una forma un poco distinta pero no muy alejados de si mismos asi que haber entendido temas anteirores facilito la resulucion de ejercicios.
+
+En conclusion el entendimiento de temas actuales y anteriores van de la mano haciendo que todo tenga coneccion y llevando a facilitar el desarrollo de ejercicios.
+
+
 5. Video
 
 6. Bibliografia 
+
+Floyd, T. L. (2007). Principios de circuitos electricos (8.a ed.). Pearson
+
