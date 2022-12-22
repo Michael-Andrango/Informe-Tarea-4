@@ -23,6 +23,9 @@ CIRCUITOS EN SERIE_PARALELO - TEOREMAS DE CIRCUITOS Y CONVERSIONES
 
 ![Presentación para Pizarra Online Lluvia de Ideas Planificación Equipo Ilustrativo Divertido Ws Naranja Rosa Amarillo](https://user-images.githubusercontent.com/107088999/208919790-78bb1b54-d3c8-45c6-bd5f-5585010bd7f0.jpg)
 
+![Presentación Plan Alimentación Dibujos Scrapbook Colorido](https://user-images.githubusercontent.com/107088999/209172848-f405d1dc-ea21-4279-b707-6333f6e28a5a.jpg)
+
+
 3. Explicacion y resolucion de ejercicios o problemas  EJERCICIOS PARES
 
 2. Visualice y trace los siguientes circuitos en serie-paralelo:
